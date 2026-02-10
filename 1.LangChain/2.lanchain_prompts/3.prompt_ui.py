@@ -28,7 +28,7 @@ length_input = st.selectbox( "Select Explanation Length",
 
 
 # template
-template = load_prompt('template.json')
+template = load_prompt(r'D:\local_synced\workspace\genAI\1.LangChain\2.lanchain_prompts\template.json')
 
 
 # fill the placeholders

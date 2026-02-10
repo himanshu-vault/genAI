@@ -33,4 +33,4 @@ result = chain.invoke({'topic': 'India'})
 
 print(result)
 
-print(chain.get_graph().print_ascii())
+chain.get_graph().print_ascii()

@@ -1,0 +1,4 @@
+men=42
+ladies=43
+boys=11
+girls=34
